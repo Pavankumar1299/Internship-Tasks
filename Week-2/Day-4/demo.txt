@@ -1,0 +1,5 @@
+I have created a new file 
+using Python File Handling operations
+
+I have appended something in 'demo.txt' file,
+And i don't know what it is?
