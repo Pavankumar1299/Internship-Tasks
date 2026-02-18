@@ -51,5 +51,8 @@ All Week-2 programs were finalized, uploaded to GitHub, and documented with outp
 ### Day-1 Introduction to HTML
 a basic static web page was designed using HTML. Different HTML tags were used to structure content, display images, create lists, add links, and present data in a tabular format. The experiment helped in understanding how HTML elements work together to form a complete web page.
 
+### Day-2 Forms & Input Elements
+Today’s task focused on building an HTML registration form. The form was structured using the <form> tag, user inputs were collected through various <input> elements, and accessibility was improved by linking labels with form controls. The form layout was kept simple and readable.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
