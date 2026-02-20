@@ -54,8 +54,11 @@ a basic static web page was designed using HTML. Different HTML tags were used t
 ### Day-2 Forms & Input Elements
 Today’s task focused on building an HTML registration form. The form was structured using the <form> tag, user inputs were collected through various <input> elements, and accessibility was improved by linking labels with form controls. The form layout was kept simple and readable.
 
-### Day-2 CSS Basics
+### Day-3 CSS Basics
 I learned the basics of CSS styling. I applied background colors, customized fonts, used border, margin, and padding to control spacing, and styled a button with hover effects. I also connected an external CSS file to an HTML page and saw how CSS changes the appearance without touching the HTML structure.
+
+### Day-4 Layout Design
+a simple webpage layout was designed using HTML and CSS. The structure of the page was built using div elements, and styling was applied to visually separate different sections. The concept of the CSS box model was implemented to control spacing and alignment, helping to improve the overall layout and readability of the page.
 
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
