@@ -58,7 +58,13 @@ Today’s task focused on building an HTML registration form. The form was struc
 I learned the basics of CSS styling. I applied background colors, customized fonts, used border, margin, and padding to control spacing, and styled a button with hover effects. I also connected an external CSS file to an HTML page and saw how CSS changes the appearance without touching the HTML structure.
 
 ### Day-4 Layout Design
-a simple webpage layout was designed using HTML and CSS. The structure of the page was built using div elements, and styling was applied to visually separate different sections. The concept of the CSS box model was implemented to control spacing and alignment, helping to improve the overall layout and readability of the page.
+A simple webpage layout was designed using HTML and CSS. The structure of the page was built using div elements, and styling was applied to visually separate different sections. The concept of the CSS box model was implemented to control spacing and alignment, helping to improve the overall layout and readability of the page.
+
+### Day-5 Responsive Layout
+A responsive layout was created using percentage-based widths instead of fixed pixel values.
+Flexbox was used to align multiple cards in a row.
+Media queries were applied to modify the layout for smaller screens.
+The layout was tested using browser mobile view tools to verify responsiveness.
 
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
