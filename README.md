@@ -66,5 +66,12 @@ Flexbox was used to align multiple cards in a row.
 Media queries were applied to modify the layout for smaller screens.
 The layout was tested using browser mobile view tools to verify responsiveness.
 
+### Day-6 JavaScript Basics
+Basic JavaScript concepts were implemented to add interactivity to a webpage.
+JavaScript functions were used to handle button click events.
+DOM elements were accessed and modified using getElementById.
+Form validation logic was implemented using conditional statements.
+A simple calculator was created using JavaScript operators and conditions.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
