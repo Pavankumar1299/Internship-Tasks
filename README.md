@@ -73,5 +73,8 @@ DOM elements were accessed and modified using getElementById.
 Form validation logic was implemented using conditional statements.
 A simple calculator was created using JavaScript operators and conditions.
 
+### Day-7 Mini Frontend Project
+This mini frontend project demonstrates the implementation of a simple multi-page website. It focuses on structuring webpages, linking them together, and designing basic forms. The project helped in understanding how individual pages come together to form a complete frontend application.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
