@@ -76,5 +76,9 @@ A simple calculator was created using JavaScript operators and conditions.
 ### Day-7 Mini Frontend Project
 This mini frontend project demonstrates the implementation of a simple multi-page website. It focuses on structuring webpages, linking them together, and designing basic forms. The project helped in understanding how individual pages come together to form a complete frontend application.
 
+## Week-4 Backend Development & Database Integration
+### Day-1 Introduction to Backend
+Today focused on setting up the backend development environment and understanding the basics of a backend framework using Django. I learned how backend servers handle requests and responses and how Django provides a structured way to build web applications. The project was run locally, confirming a successful setup and readiness for further backend development.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git

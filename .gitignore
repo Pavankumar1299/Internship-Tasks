@@ -1,0 +1,8 @@
+Week-4_Backend/Day-1_Intro_to_Backend/Hello/
+
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+venv/
+
