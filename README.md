@@ -80,5 +80,13 @@ This mini frontend project demonstrates the implementation of a simple multi-pag
 ### Day-1 Introduction to Backend
 Today focused on setting up the backend development environment and understanding the basics of a backend framework using Django. I learned how backend servers handle requests and responses and how Django provides a structured way to build web applications. The project was run locally, confirming a successful setup and readiness for further backend development.
 
+### Day-2 Database Basics
+Today i have installed MySQl Database and created new database.
+Inside Database created tables (Users, Students) and inserted few rows.
+A SELECT query was performed on the Students table.
+The WHERE clause was used to apply multiple conditions.
+The LIKE operator with wildcard % was used for pattern matching at the end of strings.
+Logical operator AND was used to combine conditions effectively.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
