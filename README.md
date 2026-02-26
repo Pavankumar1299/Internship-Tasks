@@ -88,5 +88,8 @@ The WHERE clause was used to apply multiple conditions.
 The LIKE operator with wildcard % was used for pattern matching at the end of strings.
 Logical operator AND was used to combine conditions effectively.
 
+### Day-3 Python Database Connection
+In this experiment, Python was connected to a MySQL database to perform database operations. The program demonstrated how SQL queries can be executed through Python using a database connector. All CRUD operations—Insert, Select, Update, and Delete—were implemented in a single Python file. This experiment shows how Python can be effectively used to interact with relational databases and manage persistent data.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
