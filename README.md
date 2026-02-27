@@ -91,5 +91,8 @@ Logical operator AND was used to combine conditions effectively.
 ### Day-3 Python Database Connection
 In this experiment, Python was connected to a MySQL database to perform database operations. The program demonstrated how SQL queries can be executed through Python using a database connector. All CRUD operations—Insert, Select, Update, and Delete—were implemented in a single Python file. This experiment shows how Python can be effectively used to interact with relational databases and manage persistent data.
 
+### Day-4 Backend Forms & Data Storage
+This task focused on implementing backend form handling and data storage using Django and MySQL. The project demonstrated the complete backend workflow starting from user input through an HTML form, processing the data in Django views, storing it in a MySQL database, and finally displaying the stored data on a webpage using HTML tables. During development, configuration and template-related errors were encountered and resolved, strengthening understanding of Django’s project structure and request lifecycle.
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
