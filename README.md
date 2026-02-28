@@ -94,5 +94,12 @@ In this experiment, Python was connected to a MySQL database to perform database
 ### Day-4 Backend Forms & Data Storage
 This task focused on implementing backend form handling and data storage using Django and MySQL. The project demonstrated the complete backend workflow starting from user input through an HTML form, processing the data in Django views, storing it in a MySQL database, and finally displaying the stored data on a webpage using HTML tables. During development, configuration and template-related errors were encountered and resolved, strengthening understanding of Django’s project structure and request lifecycle.
 
+### Day-5 Login System (Basic Authentication)
+Today worked on basic login project. This project successfully implemented a basic user registration and login system using Django.
+Issues such as duplicate users, login validation errors, and repeated alert messages were identified and resolved.
+By enforcing proper database queries and using Django’s built-in messaging system, the application achieved cleaner logic, better user experience, and improved reliability.
+
+
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
+
