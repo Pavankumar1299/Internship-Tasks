@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        th{ padding: 10px 50px 10px 50px; }
+        td{ text-align: center; }
+        table{ border: 2px solid gray; }
+    </style>
+    <title>Books</title>
+</head>
+<body>
+    <h1>Books</h1>
+    <h3>Add Book</h3>
+    <form method="POST">
+        {% csrf_token %}
+        <input type="text" name="title" placeholder="Title" required>
+        <input type="text" name="author" placeholder="Author" required>
+        <input type="text" name="price" placeholder="Price" required>
+        <input type="submit" value="Add Book">
+    </form>
+
+    <h3>Book List</h3>
+    <table border="1">
+        <tr>
+            <th style="padding: 10px;">Si.No</th>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+            <th colspan="2">Option</th>
+        </tr>
+        {% for book in books %}
+        <tr>
+            <td>{{ forloop.counter }}</td>
+            <td>{{ book.title }}</td>
+            <td>{{ book.author }}</td>
+            <td>${{ book.price }}</td>
+            <td><a href="{% url 'update_book' book.id %}"><button style="background-color: lightblue;">Update</button></a></td>
+            <td><form method="post" action="{% url 'delete_book' book.id %}" style="display:inline;">
+                    {% csrf_token %}
+                    <button type="submit" style="background-color: rgb(254, 19, 19);">Delete</button>
+                </form></td>
+        </tr>
+        {% empty %}
+            <tr>
+                <td colspan="5" style="text-align: center;">No books available</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -99,6 +99,9 @@ Today worked on basic login project. This project successfully implemented a bas
 Issues such as duplicate users, login validation errors, and repeated alert messages were identified and resolved.
 By enforcing proper database queries and using Django’s built-in messaging system, the application achieved cleaner logic, better user experience, and improved reliability.
 
+### Day 6 – CRUD Mini Module
+Built a complete CRUD mini module. Connected Django backend with MySQL database. Used HTML templates to display and manage data. Practiced Django views, URLs, models, and forms together
+
 
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
