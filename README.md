@@ -102,6 +102,14 @@ By enforcing proper database queries and using Django’s built-in messaging sys
 ### Day 6 – CRUD Mini Module
 Built a complete CRUD mini module. Connected Django backend with MySQL database. Used HTML templates to display and manage data. Practiced Django views, URLs, models, and forms together
 
+### Day 7 - Mini Project
+* Built a mini backend project integrating authentication and CRUD.
+* Fixed login and registration flow issues.
+* Ensured secure logout using POST method.
+* Connected authentication flow with dashboard access.
+* Completed end-to-end user journey:
+Register → Login → Dashboard → CRUD operations.
+* Improved understanding of backend project structure and flow.
 
 ## Link:
 https://github.com/Pavankumar1299/Internship-Tasks.git
